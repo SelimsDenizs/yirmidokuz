@@ -1,0 +1,2 @@
+# yirmidokuz
+ogrenmek icin olusturdum
